@@ -43,3 +43,7 @@ Solo se necesita un navegador web actual (Chrome, Firefox, Edge…). No requiere
 ## Licencia
 
 Proyecto de uso educativo. Puedes indicar aquí la licencia elegida (por ejemplo, MIT).
+
+## Cambios en mi copia
+
+Este fork se ha clonado y modificado para practicar el trabajo con Git y GitHub.
